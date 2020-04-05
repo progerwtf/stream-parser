@@ -15,7 +15,7 @@
   "require": {
     "php": "^7.0",
     "maxakawizard/json-collection-parser": "^1.1",
-    "tightenco/collect": "^5.5.33"
+    "tightenco/collect": "^7.0"
   },
 
   "require-dev": {
